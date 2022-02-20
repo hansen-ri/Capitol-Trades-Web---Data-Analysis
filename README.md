@@ -16,9 +16,9 @@ A hybrid Python program that blends web scraping practices with data analytics. 
 
 # Development Environment
 
-Visual Studio Code
-Python 3.9.5 64-bit
-Python BeautifulSoup4 & Pandas libraries
+* Visual Studio Code
+* Python 3.9.5 64-bit
+* Python BeautifulSoup4 & Pandas libraries
 
 # Useful Websites
 
