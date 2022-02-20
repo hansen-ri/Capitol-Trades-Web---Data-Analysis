@@ -23,7 +23,7 @@ A hybrid Python program that blends web scraping practices with data analytics. 
 # Useful Websites
 
 * [RealPython.com](https://realpython.com/beautiful-soup-web-scraper-python/)
-* [YouTube.com](https://www.youtube.com/watch?v=m-koIYWCaIo)
+* [YouTube Web Scraping/Pandas Tutorial](https://www.youtube.com/watch?v=m-koIYWCaIo)
 
 # Future Work
 
