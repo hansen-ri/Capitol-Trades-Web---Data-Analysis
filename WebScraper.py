@@ -26,8 +26,8 @@ def webscrape(pages):
     for item in trades:
         try:
             print()
-            firstname = item.find('span', {'class': 'firstName'}).text + " " + item.find('span', {'class': 'lastName'}).text
-            print(firstname)
+            fullname = item.find('span', {'class': 'firstName'}).text + " " + item.find('span', {'class': 'lastName'}).text
+            print(fullname)
             party = item.find('span', {'class': 'party'}).text
             print(party)
             state = item.find('span', {'class': 'us-state-compact'}).text
